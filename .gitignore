@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+*.log
+dev-server*.log
+.env*
+!.env.example
+.vercel/
+.playwright-cli/
+test-results/
+output/
+
+.vercel
